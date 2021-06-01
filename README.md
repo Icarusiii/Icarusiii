@@ -5,6 +5,8 @@
 - code.txt为基金代码。
 - figure.py为生成文件。
 - 制作比较粗糙，仍在改进中。
+![image](https://user-images.githubusercontent.com/48007852/120290512-fac5ae00-c2f4-11eb-98a5-41b9e30f5f00.png)
+
 <!---
 - 📫 
 --->
